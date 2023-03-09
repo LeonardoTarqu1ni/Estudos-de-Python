@@ -1,4 +1,0 @@
-num1 = int(input("Digite um numero!\n"));
-a = num1 - 1
-s = num1 + 1
-print("O sucessor de {} é {} e o antecessor dele é {} ".format (num1, s, a))
