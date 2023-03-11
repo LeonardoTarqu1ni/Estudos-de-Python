@@ -1,0 +1,8 @@
+num = str(input('Digite um numero de 0 a 9999:'))
+print('Este numero tem:')
+separado = ' '.join(num)
+dividido = separado.split()
+print(dividido[0])
+print(dividido[1])
+print(dividido[2])
+print(dividido[3])
